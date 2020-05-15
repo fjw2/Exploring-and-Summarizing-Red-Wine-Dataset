@@ -1,7 +1,7 @@
 # Exploring-and-Summarizing-Red-Wine-Dataset using R
 
 This project explores a red wine dataset containing 13 different 
-variables that influence its overall rating.  This project was a part of Udacity's Data Analyst Nanodegree program.
+variables that influence its overall rating.  This project was a part of Udacity's Data Analyst Nanodegree program and was created in R Studio.
 
 ## What was achieved throughout this project:
 
