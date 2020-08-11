@@ -11,4 +11,4 @@ variables that influence its overall rating.  This project was a part of Udacity
 
 -Exploring variables to identify the most important variables and relationships within a data set before building predictive models; calculate correlations, and investigate conditional means
 
--Learning powerful methods and visualizations for examining relationships among multiple variables, such as reshaping data frames and using aesthetics like color and shape to uncover more information
+-Learning powerful methods and visualizations for examining relationships among multiple variables
